@@ -1,4 +1,5 @@
 public class EmpWageBuilderUC6{
+	
 	public static void main(String [] args){
 		int IS_ABSENT = 0;
 		int IS_FULLTIME = 1;
@@ -32,7 +33,7 @@ public class EmpWageBuilderUC6{
 				
 			}
 			else{
-				System.out.println("ERROR OCCURED");
+				System.out.println("INVALID ERROR OCCURED");
 			}
 			i++;
 		}
